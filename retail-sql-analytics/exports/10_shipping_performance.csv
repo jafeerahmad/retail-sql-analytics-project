@@ -1,0 +1,5 @@
+ship_mode,avg_ship_days,pct_over_5_days,line_items
+Same Day,0.6,0.0,737
+First Class,2.2,0.0,2314
+Second Class,3.2,0.0,3001
+Standard Class,5.7,54.6,8940

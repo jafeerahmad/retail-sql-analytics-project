@@ -1,0 +1,121 @@
+product_id,product_name,category,sub_category,unit_price
+1,Chairs Model 01,Furniture,Chairs,8068.68
+2,Chairs Model 02,Furniture,Chairs,10865.82
+3,Chairs Model 03,Furniture,Chairs,7425.72
+4,Chairs Model 04,Furniture,Chairs,9224.59
+5,Chairs Model 05,Furniture,Chairs,9642.33
+6,Chairs Model 06,Furniture,Chairs,11835.21
+7,Chairs Model 07,Furniture,Chairs,9483.34
+8,Chairs Model 08,Furniture,Chairs,7276.62
+9,Chairs Model 09,Furniture,Chairs,9831.29
+10,Chairs Model 10,Furniture,Chairs,7700.19
+11,Tables Model 01,Furniture,Tables,12066.89
+12,Tables Model 02,Furniture,Tables,16556.78
+13,Tables Model 03,Furniture,Tables,9280.96
+14,Tables Model 04,Furniture,Tables,13345.12
+15,Tables Model 05,Furniture,Tables,10328.78
+16,Tables Model 06,Furniture,Tables,18771.93
+17,Tables Model 07,Furniture,Tables,12455.36
+18,Tables Model 08,Furniture,Tables,17945.85
+19,Tables Model 09,Furniture,Tables,17188.1
+20,Tables Model 10,Furniture,Tables,14243.65
+21,Bookcases Model 01,Furniture,Bookcases,9817.21
+22,Bookcases Model 02,Furniture,Bookcases,11845.26
+23,Bookcases Model 03,Furniture,Bookcases,7627.97
+24,Bookcases Model 04,Furniture,Bookcases,5834.1
+25,Bookcases Model 05,Furniture,Bookcases,10269.47
+26,Bookcases Model 06,Furniture,Bookcases,12725.86
+27,Bookcases Model 07,Furniture,Bookcases,10528.32
+28,Bookcases Model 08,Furniture,Bookcases,11428.86
+29,Bookcases Model 09,Furniture,Bookcases,10492.99
+30,Bookcases Model 10,Furniture,Bookcases,5785.15
+31,Furnishings Model 01,Furniture,Furnishings,2348.29
+32,Furnishings Model 02,Furniture,Furnishings,2240.11
+33,Furnishings Model 03,Furniture,Furnishings,2723.73
+34,Furnishings Model 04,Furniture,Furnishings,2903.57
+35,Furnishings Model 05,Furniture,Furnishings,2827.55
+36,Furnishings Model 06,Furniture,Furnishings,3279.99
+37,Furnishings Model 07,Furniture,Furnishings,2391.17
+38,Furnishings Model 08,Furniture,Furnishings,3425.44
+39,Furnishings Model 09,Furniture,Furnishings,1686.91
+40,Furnishings Model 10,Furniture,Furnishings,2808.24
+41,Phones Model 01,Technology,Phones,13995.08
+42,Phones Model 02,Technology,Phones,13130.49
+43,Phones Model 03,Technology,Phones,24924.19
+44,Phones Model 04,Technology,Phones,16688.87
+45,Phones Model 05,Technology,Phones,19132.44
+46,Phones Model 06,Technology,Phones,29852.27
+47,Phones Model 07,Technology,Phones,15590.08
+48,Phones Model 08,Technology,Phones,26714.73
+49,Phones Model 09,Technology,Phones,14936.89
+50,Phones Model 10,Technology,Phones,17925.37
+51,Accessories Model 01,Technology,Accessories,1498.06
+52,Accessories Model 02,Technology,Accessories,1944.02
+53,Accessories Model 03,Technology,Accessories,1702.95
+54,Accessories Model 04,Technology,Accessories,1593.99
+55,Accessories Model 05,Technology,Accessories,1716.26
+56,Accessories Model 06,Technology,Accessories,2512.8
+57,Accessories Model 07,Technology,Accessories,3048.98
+58,Accessories Model 08,Technology,Accessories,1603.9
+59,Accessories Model 09,Technology,Accessories,2506.15
+60,Accessories Model 10,Technology,Accessories,1466.02
+61,Machines Model 01,Technology,Machines,34821.83
+62,Machines Model 02,Technology,Machines,28037.92
+63,Machines Model 03,Technology,Machines,31474.8
+64,Machines Model 04,Technology,Machines,30165.96
+65,Machines Model 05,Technology,Machines,27010.49
+66,Machines Model 06,Technology,Machines,17577.87
+67,Machines Model 07,Technology,Machines,36604.67
+68,Machines Model 08,Technology,Machines,34680.45
+69,Machines Model 09,Technology,Machines,41752.82
+70,Machines Model 10,Technology,Machines,38684.74
+71,Copiers Model 01,Technology,Copiers,37791.76
+72,Copiers Model 02,Technology,Copiers,39831.24
+73,Copiers Model 03,Technology,Copiers,39244.12
+74,Copiers Model 04,Technology,Copiers,47921.56
+75,Copiers Model 05,Technology,Copiers,27819.63
+76,Copiers Model 06,Technology,Copiers,47607.91
+77,Copiers Model 07,Technology,Copiers,51994.01
+78,Copiers Model 08,Technology,Copiers,37551.69
+79,Copiers Model 09,Technology,Copiers,54370.51
+80,Copiers Model 10,Technology,Copiers,76632.68
+81,Paper Model 01,Office Supplies,Paper,440.44
+82,Paper Model 02,Office Supplies,Paper,460.06
+83,Paper Model 03,Office Supplies,Paper,420.72
+84,Paper Model 04,Office Supplies,Paper,274.74
+85,Paper Model 05,Office Supplies,Paper,331.81
+86,Paper Model 06,Office Supplies,Paper,355.87
+87,Paper Model 07,Office Supplies,Paper,490.9
+88,Paper Model 08,Office Supplies,Paper,432.9
+89,Paper Model 09,Office Supplies,Paper,357.64
+90,Paper Model 10,Office Supplies,Paper,353.38
+91,Binders Model 01,Office Supplies,Binders,903.18
+92,Binders Model 02,Office Supplies,Binders,645.63
+93,Binders Model 03,Office Supplies,Binders,743.76
+94,Binders Model 04,Office Supplies,Binders,856.65
+95,Binders Model 05,Office Supplies,Binders,967.95
+96,Binders Model 06,Office Supplies,Binders,688.85
+97,Binders Model 07,Office Supplies,Binders,1249.36
+98,Binders Model 08,Office Supplies,Binders,672.17
+99,Binders Model 09,Office Supplies,Binders,609.97
+100,Binders Model 10,Office Supplies,Binders,614.79
+101,Storage Model 01,Office Supplies,Storage,2520.26
+102,Storage Model 02,Office Supplies,Storage,2371.51
+103,Storage Model 03,Office Supplies,Storage,2472.8
+104,Storage Model 04,Office Supplies,Storage,2789.14
+105,Storage Model 05,Office Supplies,Storage,2393.04
+106,Storage Model 06,Office Supplies,Storage,2576.44
+107,Storage Model 07,Office Supplies,Storage,2681.56
+108,Storage Model 08,Office Supplies,Storage,1674.97
+109,Storage Model 09,Office Supplies,Storage,3359.18
+110,Storage Model 10,Office Supplies,Storage,1933.91
+111,Art Model 01,Office Supplies,Art,312.43
+112,Art Model 02,Office Supplies,Art,357.92
+113,Art Model 03,Office Supplies,Art,367.17
+114,Art Model 04,Office Supplies,Art,294.0
+115,Art Model 05,Office Supplies,Art,239.56
+116,Art Model 06,Office Supplies,Art,430.24
+117,Art Model 07,Office Supplies,Art,347.8
+118,Art Model 08,Office Supplies,Art,327.65
+119,Art Model 09,Office Supplies,Art,363.37
+120,Art Model 10,Office Supplies,Art,314.44
