@@ -62,8 +62,3 @@ SWITCH(TRUE(),
 
 > **Shipping data note:** `ship_date` is the date the order is shipped, not delivered. The sample does not include a delivery date or promised-delivery date, so do not label this metric as late deliveries or on-time delivery performance.
 
-## 5. Polish checklist (what recruiters notice)
-- One consistent colour theme; titles that state the insight ("Discount bands above 20% show negative aggregate margins")
-- Tooltips, drill-through from region to state, bookmarks for navigation
-- Export a PDF + screenshots of every page into `powerbi/screenshots/`
-- Save the .pbix in `powerbi/` (keep it under GitHub's 100 MB limit)
